@@ -26,6 +26,7 @@ will print `1 3 5 7 9 `. This `range()` function starts at `1` (instead of `0`),
 4. **Okay, but can you give me another hint?** Solve the problem by hand first! Think about every step you take, even the easy ones! Programming is just telling the computer what to do. Except computers are dumb and need to be told every single obvious step. Remember what we talked about in lecture 5? Develop an algorithm, write out your steps as comments, then add code. If you think before you code, it will take less time!
 
 5. **Activity 1e how do you calculate the bead volume? Why is this so hard???** This question is best answered with a drawing:
+![Visual math showing the outline of a bead equals a sphere minus two spherical end caps minus a cylinder. The sphere has radius r, end caps height h and radius a, cylindar height r minus a and radius a.](bead_math.png)
 So how do you calculate the volume? Piece it together using the graphical equation! Take the volume of the sphere, and subtract the volume of the end caps and cylinder. The [equations for a spherical cap can be found on Wikipedia](https://en.wikipedia.org/wiki/Spherical_cap).
 
 Have a question you don't see here? Email your instructor!
