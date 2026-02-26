@@ -35,7 +35,7 @@ Example using parameters (`"*"`, `"Dr. Ritchey"`,`"Texas A&M University"`, `"snr
     
 $$\ln \left( \frac{1+x}{1-x} \right) =\sum_{n=1}^{\infty}\frac{2}{2n-1}x^{2n-1}$$
 
-As an example, if `x=0.5` and tolerance is `0.000006`, the first term for `n=1` is
+As an example, if `x = 0.5` and tolerance is `0.000006`, the first term for `n = 1` is
 
 $$\frac{2}{2\ast1-1}0.5^{2\ast1-1}$$
 
