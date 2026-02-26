@@ -15,7 +15,11 @@ For all parts, include the function named **as specified** in your submission. Y
 <li>Write a function named <code>partb</code> that takes in as parameters two parallel lists: a list of times (in increasing order), and a list of distances traveled by that point in time. The function should return a new list that contains the velocity between consecutive time measurements. The new list should have a length of one less than the original lists.</li>
 <li>Write a function named <code>partc</code> that takes in as a parameter one list of numbers and determines if two of the numbers in the list add to 2029. If they do, return the product of the two numbers, otherwise return <code>False</code>.</li>
 <li>Write a function named <code>partd</code> that will take in as a parameter a positive integer <code>n</code> and determines if <code>n</code> can be calculated as the sum of 2 or more consecutive positive, even integers. If it can, return a list of the numbers, otherwise return <code>False</code>.</li>
-<li>Imagine that you have a spherical bead. In other words, a sphere with a cylindrical hole drilled through the middle: Write a function named <code>parte</code> that will take in as parameters the radius of the sphere and the radius of the hole, and return the volume of the bead. <b>Note:</b> You will probably want to calculate the volume of <a href="https://en.wikipedia.org/wiki/Spherical_cap" target="_blank">a spherical cap</a></li>
+<li>Imagine that you have a spherical bead. In other words, a sphere with a cylindrical hole drilled through the middle:
+    
+<img src="bead.png" alt="Line drawing of a circular bead with a cylindrical hole drilled through it" width=150></br>
+
+Write a function named <code>parte</code> that will take in as parameters the radius of the sphere and the radius of the hole, and return the volume of the bead. <b>Note:</b> You will probably want to calculate the volume of <a href="https://en.wikipedia.org/wiki/Spherical_cap" target="_blank">a spherical cap</a></li>
 <li>Write a function named <code>partf</code> that will take in as parameters a single character, a person's name, company, and email, and returns a single string of the person's digital business card. Use the character as a border, and provide 2 spaces as padding on either side of the longest entry. Your function must <b>return</b> a single string, do NOT print the digital card.
 
 Example using parameters (`"*"`, `"Dr. Ritchey"`,`"Texas A&M University"`, `"snritchey@tamu.edu"`):
