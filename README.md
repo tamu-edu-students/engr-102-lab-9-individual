@@ -64,5 +64,4 @@ So how do you calculate the volume? Piece it together using the graphical equati
 
 Have a question you don't see here? Email your instructor!
 
-Based upon Dr. Keyser’s Original<br/>
 Revised Fall 2025 SNR
